@@ -4,3 +4,14 @@
 
 /* ///font haru custom style haru chai yesma rakhxau */
 
+
+
+@layer base {
+    @font-face{
+        font-family: 'Netflic-font';
+        src: url('fonts/netflixfont.woff2');
+        font-weight: 500;
+        font-style: normal;
+    }
+
+}

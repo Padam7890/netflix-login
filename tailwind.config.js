@@ -5,7 +5,10 @@ module.exports = {
   ],
   theme: {
     extend: {
-      
+      fontFamily:{
+        netflix:'Netflic-font'
+      }
+
     },
   },
   plugins: [],
